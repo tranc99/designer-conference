@@ -137,3 +137,12 @@ table {
   padding-right: 30px;
   width: 960px;
 }
+h1,
+h3,
+h5,
+p {
+  margin-bottom: 22px;
+}
+.btn {
+  border-radius: 5px;
+}
