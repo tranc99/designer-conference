@@ -126,6 +126,11 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+/*
+  ========================================
+  Grid
+  ========================================
+*/
 *,
 *:before,
 *:after {
@@ -137,12 +142,23 @@ table {
   padding-right: 30px;
   width: 960px;
 }
+/*
+  ========================================
+  Typography
+  ========================================
+*/
 h1,
 h3,
+h4,
 h5,
 p {
   margin-bottom: 22px;
 }
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
 .btn {
   border-radius: 5px;
   display: inline-block;
@@ -152,17 +168,11 @@ p {
   border: 1px solid #dfe2e5;
   padding: 10px 30px;
 }
+/*
+  ========================================
+  Home
+  ========================================
+*/
 .hero {
   padding: 22px 80px 66px 80px;
-}
-.group:before,
-.group-after {
-  content: "";
-  display: table;
-}
-.group:after {
-  clear: both;
-}
-.logo {
-  float: left;
 }
