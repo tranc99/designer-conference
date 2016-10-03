@@ -171,6 +171,8 @@ table {
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-variant: small-caps;
+  font-weight: 200;
+  line-height: 20px;
 }
 h1,
 h3,
