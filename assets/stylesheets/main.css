@@ -168,6 +168,10 @@ table {
   Typography
   ========================================
 */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-variant: small-caps;
+}
 h1,
 h3,
 h4,
