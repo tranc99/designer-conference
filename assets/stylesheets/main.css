@@ -224,6 +224,9 @@ a {
   font-size: 14px;
   font-weight: 400;
 }
+.teaser a:hover h3 {
+  color: #a9b2b9;
+}
 /*
   ========================================
   Buttons
