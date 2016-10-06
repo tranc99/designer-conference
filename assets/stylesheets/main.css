@@ -212,6 +212,13 @@ cite,
 em {
   font-style: italic;
 }
+.lead {
+  text-align: center;
+}
+.lead p {
+  font-size: 21px;
+  line-height: 33px;
+}
 a:hover {
   color: #a9b2b9;
 }
