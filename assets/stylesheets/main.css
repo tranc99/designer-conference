@@ -341,6 +341,14 @@ p {
 .nav {
   text-align: right;
 }
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: top;
+}
+.nav li:last-child {
+  margin-right: 0px;
+}
 .primary-header a,
 .primary-footer a {
   color: #fff;
