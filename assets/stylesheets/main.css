@@ -301,3 +301,6 @@ p {
   color: #648880;
   font-size: 14px;
 }
+.nav {
+  text-align: right;
+}
